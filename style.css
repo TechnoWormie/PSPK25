@@ -1,0 +1,41 @@
+body {
+
+    margin: 0;
+    padding: 0;
+}
+
+.intro {
+
+    height: 100vh;
+    background-image: url(images/PSPK25.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.main {
+
+    display: none;
+}
+
+.main {
+
+    height: 100vh;
+    background-image: url(images/PSPK2.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.main audio {
+
+    height: 23em;
+    width: 550px;
+        
+}
+
+
+
+
+
